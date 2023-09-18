@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiWi
+- 👋 Hi, I’m @KaiMorg
 - 👀 I’m interested in learning how to code and fun projects for me to play with.
 - 🌱 I’m currently learning Computer Science in highschool.
 - 💞️ I’m looking to collaborate on fun projects to help me interact with the community and get familiar with coding.
